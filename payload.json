@@ -1,0 +1,6 @@
+{
+"color": "purple",
+"message_format": "html",
+"notify": True,
+"message": "<strong>Test Notification<br>123<br>123"
+}
